@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures AI Article Generator Demo!" />
+        <Header title="Welcome to Mint Ventures AI Article Writer Demo!" />
         <p className="description">
           Type a topic and I will write the article! Get started by clicking on the bot icon.
         </p>
